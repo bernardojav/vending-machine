@@ -7,10 +7,7 @@ import java.util.Map;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author molin
- */
+
 public class specialVendo extends javax.swing.JFrame {
     
     private Map<String, Integer> itemQuantities;
