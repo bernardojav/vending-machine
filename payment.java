@@ -9,10 +9,7 @@ import javax.swing.JTextField;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author molin
- */
+
 public class payment extends javax.swing.JFrame {
     public ArrayList<Denomination> denominationValues = new ArrayList<>();
 
